@@ -34,4 +34,5 @@ Identify factories with high unhealthy device counts
 Monitor device categories contributing to inefficiency
 
 Support data-driven decisions for maintenance & production improvements
-Screenshot of the Dashboard: 
+
+Screenshot of the Dashboard: https://github.com/Anjalikyd/Tableau-1st-Dashboard/blob/main/Tableau%20Dashboard.png
